@@ -1,12 +1,5 @@
 # Softver za upravljanje turističkim turama u okolici Varaždina
 
-## Podaci o studentu
-
-Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
-------------  | ------------------- | ----- | ---------------------
-Leonardo Mihalic | lmihalic24@foi.hr | 0016172885 | lmihalic24
-
-
 ## Opis domene
 Projekt se bavi domenom upravljanja turističkim turama u okolici Varaždina. Podaci se u turističkoj agenciji vode ručno ili pomoću jednostavnih tablica, stoga to dovodi do pogrešaka kao što su dvostruke rezervacije, prekoračenje kapaciteta ture, nepregledno praćenje prijava te otežano praćenje ukupnih prihoda i popunjenosti.
 
